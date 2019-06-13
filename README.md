@@ -1,6 +1,6 @@
 # GeoDistance
 
-University project. C# simple console app.
+C# simple console app.
 
 There are 15 cities of Portugal as data. Program should choose better way to go between 2 of them.
 
